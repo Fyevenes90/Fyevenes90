@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Francisco Yevenes
 - 👀 I’m passionate about Data, programming and how we can use it to make our daily life easier
-- 🌱 I’m currently learning more about Python and Javascripts
+- 🌱 I am dedicated to expanding my knowledge in data techniques and remain consistently curious about emerging technologies
 - 💞️ I’m looking to collaborate on data analytics projects
 - 📫 How to reach me at fco.yevenes.p@gmail.com or Linkedin --> www.linkedin.com/in/francisco-yevenes-98a64248
 
